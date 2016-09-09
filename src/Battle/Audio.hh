@@ -1,9 +1,9 @@
-#ifndef BATTLE_LOGIC_HH
-#define BATTLE_LOGIC_HH
+#ifndef BATTLE_AUDIO_HH
+#define BATTLE_AUDIO_HH
 
 namespace battle {
 
-  class Logic {
+  class Audio {
   public:
     virtual void step() = 0;
   };

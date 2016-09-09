@@ -1,16 +1,13 @@
 #include "Battle/Main.hh"
 
-#include "Battle/Logic.hh"
+#include "Battle/Sequence.hh"
 
 namespace battle {
    
-  void main(Logic &logic) {
-    while (!logic.isPreBattle()) {
-    }
-    while (!logic.isInBattle()) {
-    }
-    while (!logic.isPostBattle()) {
-    }
+  void main(Sequence &sequence) {
+    sequence.runPreBattle();
+    sequence.runInBattle();
+    sequence.runPostBattle();
   }
 
 }
