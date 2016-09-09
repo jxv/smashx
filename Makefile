@@ -1,4 +1,5 @@
 SOURCE := $(wildcard src/SmashX/*.cc)
+SOURCE += $(wildcard src/Battle/*.cc)
 SOURCE += $(wildcard app/*.cc)
 
 INCLUDE := src
