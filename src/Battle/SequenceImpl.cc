@@ -1,4 +1,4 @@
-#include "Battle/Sequence.hh"
+#include "Battle/SequenceImpl.hh"
 
 #include "Battle/QuerySequence.hh"
 #include "Battle/Graphics.hh"

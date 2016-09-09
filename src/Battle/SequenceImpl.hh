@@ -1,7 +1,7 @@
 #ifndef BATTLE_SEQUENCEIMPL_HH
 #define BATTLE_SEQUENCEIMPL_HH
 
-#include "Battle/SequenceImpl.hh"
+#include "Battle/Sequence.hh"
 
 #include "Battle/QuerySequence.hh"
 #include "Battle/Graphics.hh"
