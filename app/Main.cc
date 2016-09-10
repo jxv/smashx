@@ -1,6 +1,6 @@
-#include "Zbrz/Main.hh"
+#include "Zbro/Main.hh"
 
 int main(int argc, const char **argv) {
-  zbrz::main();
+  zbro::main();
   return 0;
 }
