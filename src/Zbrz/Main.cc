@@ -1,4 +1,4 @@
-#include "SmashX/Main.hh"
+#include "Zbrz/Main.hh"
 
 namespace zbrz {
 

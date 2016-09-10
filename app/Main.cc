@@ -1,6 +1,6 @@
-#include "SmashX/Main.hh"
+#include "Zbrz/Main.hh"
 
 int main(int argc, const char **argv) {
-  smashx::main();
+  zbrz::main();
   return 0;
 }
