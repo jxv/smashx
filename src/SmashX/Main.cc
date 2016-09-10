@@ -1,6 +1,6 @@
 #include "SmashX/Main.hh"
 
-namespace smashx {
+namespace zbrz {
 
   void main() {
   }
