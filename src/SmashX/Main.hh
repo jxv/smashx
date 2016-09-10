@@ -1,7 +1,7 @@
-#ifndef SMASHX_MAIN_HH
-#define SMASHX_MAIN_HH
+#ifndef ZBRZ_MAIN_HH
+#define ZBRZ_MAIN_HH
 
-namespace smashx {
+namespace zbrz {
 
   void main();
 
